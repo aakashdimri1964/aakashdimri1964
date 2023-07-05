@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aakashdimri1964
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning Full Stack Development
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning Java and dsa.
 - 💞️ I’m looking to collaborate on Mini Projects
 - 📫 How to reach me - https://www.linkedin.com/in/aakash-dimri-155b25142/
 
